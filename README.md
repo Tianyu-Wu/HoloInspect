@@ -39,3 +39,6 @@ Inspection
 [MRTK Github](https://github.com/microsoft/MixedRealityToolkit-Unity) <br/>
 [Tutorial for spatial anchor related packages](https://docs.microsoft.com/en-us/windows/mixed-reality/develop/unity/tutorials/mr-learning-asa-02#importing-the-tutorial-assets)
 
+## Authors
+Tianyu Wu, Yuchang Jiang, Han Sun, Yihang She
+
