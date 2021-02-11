@@ -1,5 +1,9 @@
 # HoloInspect - Mixed Reality for BIM Software
 
+> Lastest update: the storymap of our project is publicly available !
+
+[Vist our storymap](https://arcg.is/1OC4D5) <br/>
+
 ## Introduction
 This is a course project for GIS and Geoinformatics Lab in 2020 Fall at ETH Zurich. 
 With Microsoft HoloLens, our application, HoloInspect, provides additional mixed reality support for traditional BIM software in three construction stages:
