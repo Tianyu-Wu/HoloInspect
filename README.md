@@ -37,7 +37,7 @@ Inspection
 
 ## Demo 
 
-[![Demo Video](http://img.youtube.com/vi/EXrDo03un5o/0.jpg)](https://www.youtube.com/watch?app=desktop&v=EXrDo03un5o&feature=youtu.be&ab_channel=HaydenSun)
+[![Demo Video](http://img.youtube.com/vi/RYfFkAI_qs4/0.jpg)](https://www.youtube.com/watch?app=desktop&v=RYfFkAI_qs4&feature=youtu.be&ab_channel=HaydenSun)
 
 ## Useful links
 [MRTK Github](https://github.com/microsoft/MixedRealityToolkit-Unity) <br/>
